@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdWordy
 - 👀 I’m interested in ... Art, Video Games, Life
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Mods for Rimworld and Space Haven
+- 🌱 I’m currently learning ... Java and C#
+- 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... Edwards730@hotmail.com
 
 <!---
