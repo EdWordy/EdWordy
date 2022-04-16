@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdWordy
+- 👋 Hi, I’m @EdWordy, Founder at Bitforge Games
 - 👀 I’m interested in ... Art, Video Games, Life
 - 🌱 I’m currently learning ... Java and C#
 - 💞️ I’m looking to collaborate on ... Nothing
