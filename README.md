@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdWordy
-- 👀 I’m interested in ... Art, Video Games, Life
-- 🌱 I’m currently learning ... C++ and more
+- 👀 I’m interested in ... Art, Design, Programming
+- 🌱 I’m currently learning ... Java, C#, C++, Kotlin and more!
 - 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... Edwards730@hotmail.com
 
