@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EdWordy
-- 👀 I’m interested in ... Art, Design, Programming
-- 🌱 I’m currently learning ... Java, C#, C++, Kotlin and more!
-- 💞️ I’m looking to collaborate on ... Nothing
-- 📫 How to reach me ... Edwards730@hotmail.com
+- 👀 I’m interested in ... Art, Design, Programming, Psychology... So much, really.
+- 🌱 I’m currently learning ... C#, and C++... Maybe Kotlin
+- 💞️ I’m looking to collaborate on ... De nada
+- 📫 How to reach me ... Taylorjordanedwards@gmail.com
 
 <!---
 EdWordy/EdWordy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
