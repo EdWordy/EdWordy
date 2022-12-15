@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdWordy
-- 👀 I’m interested in ... Art, Design, Programming, Psychology... So much, really.
+- 👀 I’m interested in ... Art, Design, Programming (and more :D!)
 - 🌱 I’m currently learning ... C#, and C++... Maybe Kotlin
 - 💞️ I’m looking to collaborate on ... De nada
 - 📫 How to reach me ... taylorjordanedwards@gmail.com
