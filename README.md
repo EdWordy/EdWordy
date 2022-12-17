@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @EdWordy
-- 👀 I’m interested in ... Art, Design, Programming (and more :D!)
-- 🌱 I’m currently learning ... C++ and C#... Maybe Kotlin
-- 💞️ I’m looking to collaborate on ... De nada
+- 👀 I’m interested in ... Art, Design, Programming, Economics
+- 🍴 I know a bit of: HTML, CSS, PHP, Java, FXML, C#, XML, and a bit more. 
+- 🌱 I’m currently learning ... C++, C# and XAML, and C ... Maybe Kotlin later
+- 💞️ I’m looking to collaborate on ... De nada for now
 - 📫 How to reach me ... taylorjordanedwards@gmail.com
 
 <!---
