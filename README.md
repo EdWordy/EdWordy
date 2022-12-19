@@ -3,7 +3,7 @@
 - 🍴 I know a bit of: HTML, CSS, PHP, Java, FXML, C#, XML, and a bit more. 
 - 🌱 I’m currently learning: C++, C# and XAML, and C ... (and then Fortran, CObol, Lisp, and Haskell) Maybe Kotlin later
 - 💞️ I’m looking to collaborate on? De nada for now
-- 📫 How to reach me -> taylorjordanedwards@gmail.com
+- 📫 How to reach me -> taylorjedwards@proton.me
 
 <!---
 EdWordy/EdWordy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
