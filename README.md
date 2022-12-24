@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdWordy
-- 👀 I’m interested in: Art, Design, Programming, Economics
+- 👀 I’m interested in: Art, Design, Programming, Economics, Philosophy, etc etc
 - 🍴 I know a bit of: HTML, CSS, PHP, Java, FXML, C#, XML, and more. 
 - 🌱 I’m currently learning: C++, C# and XAML, and C ... (and then Fortran, Cobol, Lisp, and Haskell) Maybe Kotlin later
 - 💞️ I’m looking to collaborate on? De nada for now
