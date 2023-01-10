@@ -7,11 +7,14 @@
 - 📫 How to reach me -> taylorjordanedwards@gmail.com
 
 board of brags
+
 2022
+
 - learned enough java 8 in 2 weeks to write a modloader in that time, but not enough libgdx to fix the in-game launch stack overflow error.
 
 2023
-!
+
+- !
 
 <!---
 EdWordy/EdWordy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
