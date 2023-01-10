@@ -6,6 +6,9 @@
 - 💞️ I’m looking to collaborate on? De nada for now
 - 📫 How to reach me -> taylorjordanedwards@gmail.com
 
+board of brags
+- learned enough java 8 in 2 weeks to write a modloader in that time, but not enough libgdx to fix the in-game launch stack overflow error.
+
 <!---
 EdWordy/EdWordy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
