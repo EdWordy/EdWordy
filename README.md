@@ -7,10 +7,9 @@
 - 🖌️ I went to art school. Can I draw? Yes. Will I draw you like une fille francais? No.
 - 💞️ I’m looking to collaborate on? De nada for now
 - 📫 How to reach me -> taylorjordanedwards@gmail.com
-
-
-
-
+.
+.
+.
 
 board of brags
 
