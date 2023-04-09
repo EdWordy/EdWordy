@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @EdWordy!!
 - 👀 I’m interested in: Art, Design, Programming, Economics, Philosophy, etc etc
-- 🍴 I know a bit of everything: HTML and CSS, PHP, Java and FXML, C# and XAML, XML, C, and C++ (aka level 99 StarEdit wizard). 
+- 🍴 I know a bit of everything: HTML and CSS, Java and FXML, C# and XAML, XML, C, and C++ (aka level 99 StarEdit wizard). 
 - 🌱 I’m currently learning: how to write my own programming lang
 - 🖌️ I went to art school. Can I draw? Yes. Can I draw well? Sort of.
 - 💞️ I’m looking to collaborate on? De nada for now
