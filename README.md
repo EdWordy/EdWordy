@@ -2,10 +2,10 @@
 
 - 👋 Hi, I’m @EdWordy!!
 - 👀 I’m interested in: Art, Design, Programming, Economics, Philosophy, etc etc
-- 🍴 I know a bit of everything: HTML and CSS, Java and FXML, C# and XAML, XML, C, C++ and Python (aka level 99 StarEdit wizard). 
-- 🌱 I’m currently learning: how to write my own programming lang, and making games
+- 🍴 I know a bit of everything: HTML and CSS, XML, C# and XAML, C, C++ and Python (aka level 99 StarEdit wizard). 
+- 🌱 I’m currently learning: How to be a better programmer
 - 🖌️ I went to art school. Can I draw? Yes. Can I draw well? Sort of.
-- 💞️ I’m looking to collaborate on? De nada for now
+- 💞️ I’m looking to collaborate on? Hit me up with details and lets make it happen
 - 📫 How to reach me -> taylorjordanedwards@gmail.com
 
 <!---
